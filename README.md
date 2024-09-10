@@ -58,8 +58,8 @@ Imaginify Photo is an AI-powered SaaS platform for advanced image processing. Wi
 ---
 
 ## 📬 Connect with Me
- [LinkedIn](https://www.linkedin.com/in/liam-stiles) 
- [Portfolio](https://liamstiles.com)
+- [LinkedIn](https://www.linkedin.com/in/liam-stiles) 
+- [Portfolio](https://liamstiles.com)
 
 
 ###
