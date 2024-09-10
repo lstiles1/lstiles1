@@ -1,20 +1,4 @@
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-</div>
-
-
-  # 👋 Hello, I'm Liam!
+# 👋 Hello, I'm Liam!
 
 I'm a passionate full-stack developer with a keen interest in building scalable web applications, exploring AI integrations, and creating dynamic user experiences. Here are some of my top projects:
 
@@ -74,8 +58,8 @@ Imaginify Photo is an AI-powered SaaS platform for advanced image processing. Wi
 ---
 
 ## 📬 Connect with Me
-- [LinkedIn]: (https://www.linkedin.com/in/liam-stiles)
-- [Portfolio]: (https://liamstiles.com)
+- [LinkedIn] LinkedIn: (https://www.linkedin.com/in/liam-stiles)
+- [Portfolio] Portfolio: (https://liamstiles.com)
 
 ###
 
