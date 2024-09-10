@@ -1,22 +1,3 @@
-## Hi there 👋
-
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -93,8 +74,8 @@ Imaginify Photo is an AI-powered SaaS platform for advanced image processing. Wi
 ---
 
 ## 📬 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/liam-stiles)
-- Portfolio: [Your Portfolio URL](https://liamstiles.com)
+- [LinkedIn]: (https://www.linkedin.com/in/liam-stiles)
+- [Portfolio]: (https://liamstiles.com)
 
 ###
 
