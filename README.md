@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Liam!
 
-I'm a passionate full-stack developer with a keen interest in building scalable web applications, exploring AI integrations, and creating dynamic user experiences. Here are some of my top projects:
+I'm a passionate full-stack developer with an interest in building scalable web applications, exploring AI integrations, and creating dynamic user experiences. Here are some of my top projects:
 
 ---
 
@@ -58,7 +58,8 @@ Imaginify Photo is an AI-powered SaaS platform for advanced image processing. Wi
 ---
 
 ## 📬 Connect with Me
- [LinkedIn](https://www.linkedin.com/in/liam-stiles) | [Portfolio](https://liamstiles.com)
+ [LinkedIn](https://www.linkedin.com/in/liam-stiles) 
+ [Portfolio](https://liamstiles.com)
 
 
 ###
