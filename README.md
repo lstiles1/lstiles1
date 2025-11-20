@@ -6,20 +6,19 @@ I'm a passionate full-stack developer with an interest in building scalable web 
 
 ## 🚀 Projects
 
-### 1. [**Stocked**](https://main.d1s8h38tag6x10.amplifyapp.com) 
+### 1. [**Stocked**](https://stocked-inventory.vercel.app) 
 **An Inventory Management Dashboard**
 
 Stocked is a full-stack inventory management application built to streamline product, sales, and user management. It features real-time search, filtering, and data summaries for business insights. Deployed on AWS, this app showcases a robust architecture optimized for scalability and performance.
 
-- **Tech Stack**: Next.js, Node.js, Express.js, Prisma, PostgreSQL, Redux Toolkit, AWS (EC2, RDS, S3, Amplify)
+- **Tech Stack**: Next.js, Node.js, Express.js, Prisma, PostgreSQL, Redux Toolkit)
 - **Features**:
   - Dashboard with sales and inventory summaries
   - Light/Dark mode toggle for improved accessibility
   - Product and user management with search and filtering
   - Responsive design for seamless usage across devices
-  - AWS-deployed backend with scalable infrastructure
   
-🔗 [Live Demo](https://main.d1s8h38tag6x10.amplifyapp.com) | [GitHub Repo](https://github.com/lstiles1/inventory-management)
+🔗 [Live Demo](https://stocked-inventory.vercel.app) | [GitHub Repo](https://github.com/lstiles1/inventory-management)
 
 ---
 
